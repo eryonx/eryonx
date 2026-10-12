@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+# Desactivar rastreo de carpetas administrativas si existen
+Disallow: /admin/
+Disallow: /backend/
+
+Sitemap: https://eryonx.com/sitemap.xml
